@@ -1,0 +1,8 @@
+f2400 zundamochi
+
+f2406 kiritan
+f2407 itako_that
+f2408 kiritan-x2-up
+f2409 kiritan-x2-down
+f240a kiritan-x2h-up
+f240b kiritan-x2h-down

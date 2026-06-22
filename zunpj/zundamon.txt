@@ -1,0 +1,9 @@
+https://zunko.jp/con_illust.html
+
+「ドット絵（東北Pixel）」にあります。
+
+- クリエーター：でんち（@D_DryCell）
+- `mc04_a01.png`
+- 矩形選択： X: 61, Y: 11, W: 27, H: 28
+- スペース： PT: 2, PL: 2, PR: 3, PB: 2
+- 最終サイズ：32x32
